@@ -1,1 +1,0 @@
-<h1>Hola desde la vista 401</h1>
