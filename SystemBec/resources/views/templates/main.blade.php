@@ -78,6 +78,14 @@
 										</li>
 										@endif
 
+										<li>
+											<span class="opener">Taller</span>
+											<ul>
+												<li><a id="decoracion" href="{{route('taller.mostrar')}}">Talleres</a></li>
+												<li><a id="decoracion" href="{{route('taller.agregar')}}">Agregar Taller</a></li>
+											</ul>
+										</li>
+
 										@if(Auth::user()->admin() || Auth::user()->seguimiento() || Auth::user()->operaciones())
 										<li>
 											<span class="opener">Becarios</span>
