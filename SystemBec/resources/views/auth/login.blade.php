@@ -8,7 +8,7 @@
 
     <div class="row">
         <div class="col-sm-8 col-sm-offset-2 text">
-            <h1><strong>SYSTEMBEC</strong> </h1>
+            <h1><strong>SYSTEMBEC CAMBIO</strong> </h1>
             <div class="description">
                 <p>
                     Sistema para el control de becarios 
